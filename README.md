@@ -29,3 +29,5 @@ https://github.com/IISSI2-IS/DeliverUS-Backend#backend-deployment-steps
 
 7. Metro bundler development tools should automatically open on your browser (usually at http://localhost:19002/). Once you are presented with the Metro Bundler development tools web interface, click on 'Run in web browser' or click on 'Run on Android device/emulator' or 'Run on iOS simulator' to open your web/android/ios version of the app respectively.
    * Alternatively, you can use the Expo app on your device to open this project app on your real device by scanning the QR code rendered at the bottom left of the metro bundler development tools web interface.
+# FrontedPruebasRuben
+# FrontedPruebasRuben
